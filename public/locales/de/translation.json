@@ -1,0 +1,7 @@
+{
+    "home": {
+      "title": "Willkommmen zu Astro!",
+      "subtitle": "Das ist ein <0>komplexerer</0> String zum Übersetzen, gemischt mit <1>HTML Elementen</1>, wie <2>einen Link</2>!"
+    }
+  }
+  
